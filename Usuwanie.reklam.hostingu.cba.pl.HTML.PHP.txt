@@ -1,0 +1,9 @@
+<!-- made by Michal Pasierbski - www.pasierbski.pl.tn -->
+<style type="text/css">
+.cbalink {
+ display:none;
+}
+</style> 
+<script type="text/javascript">
+	document.getElementsByTagName("div")[0].style.display = "none";
+  </script>
