@@ -24,7 +24,7 @@ REM made by Michal Pasierbski - www.pasierbski.pl.tn
 
 
 Aby legalnie korzystać ze skryptów, conajmniej 1 z powyższych kodów MUSI zostać w kodzie
-Spokojnie :] nie bdzie jej widać!
+Spokojnie :] nie bdzie go widać!
 
 #[EN] scripts by Michal Pasierbski
 Free HTML, PHP ect. scripts... (MIT licence - author: Michał Pasierbski >michalpasierbski&lt;)
